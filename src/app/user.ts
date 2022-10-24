@@ -3,4 +3,6 @@ export class User {
     name:any;
     username:any;
     email:any;
+
+//gsgsg
 }
